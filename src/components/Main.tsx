@@ -106,7 +106,7 @@ export function Main() {
               <Image
                 className='w-full rounded-lg'
                 src="/mix1.jpeg"
-                alt="Capa do álbum Imunidade Musical"
+                alt="Capa do Mix Diario 1"
                 width={160}
                 height={160} />
               <p className='font-bold mt-1 font-medium'>
@@ -117,48 +117,48 @@ export function Main() {
             <a href='' className='p-3 rounded-lg flex flex-col gap-1 hover:bg-white/5 transition-colors'>
               <Image
                 className='w-full rounded-lg'
-                src="/mix1.jpeg"
-                alt="Capa do álbum Imunidade Musical"
+                src="/mix2.jpeg"
+                alt="Capa do Mix Diario 2"
                 width={160}
                 height={160} />
               <p className='font-bold mt-1 font-medium'>
-                Daily Mix 1
+                Daily Mix 2
+              </p>
+              <span className='text-sm font-semibold text-zinc-400'>Michael Jackson, Billie Holiday e mais</span>
+            </a>
+            <a href='' className='p-3 rounded-lg flex flex-col gap-1 hover:bg-white/5 transition-colors'>
+              <Image
+                className='w-full rounded-lg'
+                src="/mix3.jpeg"
+                alt="Capa do Mix Diario 3"
+                width={160}
+                height={160} />
+              <p className='font-bold mt-1 font-medium'>
+                Daily Mix 3
+              </p>
+              <span className='text-sm font-semibold text-zinc-400'>Eminem, XXXTENTACION e mais</span>
+            </a>
+            <a href='' className='p-3 rounded-lg flex flex-col gap-1 hover:bg-white/5 transition-colors'>
+              <Image
+                className='w-full rounded-lg'
+                src="/mix4.jpeg"
+                alt="Capa do Mix Diario 4"
+                width={160}
+                height={160} />
+              <p className='font-bold mt-1 font-medium'>
+                Daily Mix 4
               </p>
               <span className='text-sm font-semibold text-zinc-400'>Cavetown, Billie Eillish e mais</span>
             </a>
             <a href='' className='p-3 rounded-lg flex flex-col gap-1 hover:bg-white/5 transition-colors'>
               <Image
                 className='w-full rounded-lg'
-                src="/mix1.jpeg"
-                alt="Capa do álbum Imunidade Musical"
+                src="/mix5.jpeg"
+                alt="Capa do Mix Diario 5"
                 width={160}
                 height={160} />
               <p className='font-bold mt-1 font-medium'>
-                Daily Mix 1
-              </p>
-              <span className='text-sm font-semibold text-zinc-400'>Cavetown, Billie Eillish e mais</span>
-            </a>
-            <a href='' className='p-3 rounded-lg flex flex-col gap-1 hover:bg-white/5 transition-colors'>
-              <Image
-                className='w-full rounded-lg'
-                src="/mix1.jpeg"
-                alt="Capa do álbum Imunidade Musical"
-                width={160}
-                height={160} />
-              <p className='font-bold mt-1 font-medium'>
-                Daily Mix 1
-              </p>
-              <span className='text-sm font-semibold text-zinc-400'>Cavetown, Billie Eillish e mais</span>
-            </a>
-            <a href='' className='p-3 rounded-lg flex flex-col gap-1 hover:bg-white/5 transition-colors'>
-              <Image
-                className='w-full rounded-lg'
-                src="/mix1.jpeg"
-                alt="Capa do álbum Imunidade Musical"
-                width={160}
-                height={160} />
-              <p className='font-bold mt-1 font-medium'>
-                Daily Mix 1
+                Daily Mix 5
               </p>
               <span className='text-sm font-semibold text-zinc-400'>Cavetown, Billie Eillish e mais</span>
             </a>
