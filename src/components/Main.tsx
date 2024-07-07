@@ -148,7 +148,7 @@ export function Main() {
               <p className='font-bold mt-1 font-medium'>
                 Daily Mix 4
               </p>
-              <span className='text-sm font-semibold text-zinc-400'>Cavetown, Billie Eillish e mais</span>
+              <span className='text-sm font-semibold text-zinc-400'>Isabel LaRosa, skyemane e mais</span>
             </a>
             <a href='' className='p-3 rounded-lg flex flex-col gap-1 hover:bg-white/5 transition-colors'>
               <Image
@@ -160,7 +160,7 @@ export function Main() {
               <p className='font-bold mt-1 font-medium'>
                 Daily Mix 5
               </p>
-              <span className='text-sm font-semibold text-zinc-400'>Cavetown, Billie Eillish e mais</span>
+              <span className='text-sm font-semibold text-zinc-400'>Lloyd Vaan, Azure e mais</span>
             </a>
           </div>
         </main>
