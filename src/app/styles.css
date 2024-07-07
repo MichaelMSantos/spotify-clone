@@ -1,0 +1,27 @@
+.menu-link:hover .custom-svg path, .menu-link:hover .custom-svg rect {
+  fill: #fff;
+}
+
+.menu-link:hover .menu-text {
+  color: #fff;
+}
+
+.btnShadow {
+  box-shadow: 0 7px 10px rgba(0, 0, 0, 0.4);
+}
+
+.autor {
+  font-size: 0.75rem;
+  line-height: 1rem; 
+}
+
+.titulo {
+  color: #fff;
+  font-weight: 500;
+  font-size: .925rem;
+  line-height: 1rem; 
+}
+
+.msc {
+  gap: 0.15rem;
+}
